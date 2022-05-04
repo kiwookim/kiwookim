@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ki Woo.
-- 👀 I’m currently interested in learning frontend and backend using Javascript
+- 👀 I’m currently interested in learning frontend and backend in Javascript
 - 🌱 I’m currently learning ... Javascript, React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fun Javascript projects.
 - 📫 How to reach me ...  kwedgemusic@gmail.com
 
 <!---
