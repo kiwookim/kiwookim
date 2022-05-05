@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Ki Woo.
-- 👀 I’m currently interested in expanding my knowledge in front-end and back-end with JavaScript.
+- 👀 I’m currently interested in expanding my knowledge in frontend and backend with JavaScript.
 - 🌱 I’m currently learning ... JavaScript and React.
 - 💡 In the next month, I plan to learn Node.js/Express and TypeScript.
 - 💞️ I’m looking to collaborate on fun projects that solve any creators' problems.
