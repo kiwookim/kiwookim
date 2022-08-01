@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ki Woo.
 - 👀 I’m currently interested in expanding my knowledge in frontend and backend with JavaScript.
 - 🌱 I’m currently learning ... React and Redux.
-- 💡 In the next month, I plan to learn Node.js/Express and TypeScript.
+- 💡 In the next month, I plan to learn Express.js and TypeScript.
 - 💞️ I’m looking to collaborate on fun projects that solve any creators' problems.
 - 📫 How to reach me ...  kwedgemusic@gmail.com
 
