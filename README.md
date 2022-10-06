@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Ki Woo.
 - 👀 I’m currently interested in expanding my knowledge in frontend and backend with JavaScript.
-- 🌱 I’m currently learning ... PostSGRE, Express, React, Redux
+- 🌱 I’m currently learning @ App Academy
 - 💞️ I’m looking to collaborate on fun projects that solve any creators' problems.
 - 📫 How to reach me ...  kwedgemusic@gmail.com
 
