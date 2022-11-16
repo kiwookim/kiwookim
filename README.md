@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Ki Woo.
 - 👀 I’m currently interested in expanding my knowledge in frontend and backend with JavaScript and Python
 - 🌱 I’m currently learning full-stack development @ App Academy
-- 💞️ I’m looking to collaborate on fun projects that solve any creators' problems.
+- 💞️ I’m looking to collaborate on fun projects that solve creators' problems.
 - 📫 How to reach me ...  kwedgemusic@gmail.com
 
 
