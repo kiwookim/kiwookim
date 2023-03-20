@@ -7,7 +7,7 @@
 
 As a full-stack software engineer, I have enjoyed using React/Redux, Node/Express, and Python for the backend with Flask. With those technologies, I have built E-commerce and social media website solo and with fellow engineers.
 
-In my free time, I enjoy cycling and watching films.
+In my free time, I enjoy cycling and listening to music.
 
 - 📫 How to reach me ...  kwedgemusic@gmail.com
 
