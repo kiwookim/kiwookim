@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Ki Woo, full-stack engineer
-- 👀 I’m currently interested in expanding my knowledge in JavaScript frameworks and Java
+- 👀 I’m currently interested in expanding my knowledge in JavaScript frameworks and Java/Spring Boot
 - 🌱 I studied full-stack development @ App Academy
 - 💞️ I’m looking to collaborate on projects that solve real-world problems.
 
