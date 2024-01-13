@@ -1,12 +1,10 @@
 
 
-- 👋 Hi, I’m Ki Woo, full-stack engineer
-- 👀 I’m currently interested in expanding my knowledge in JavaScript frameworks and Java/Spring Boot
-- 🌱 I studied full-stack development @ App Academy
-- 💞️ I’m looking to collaborate on projects that solve real-world problems.
+- 👋 Hi, I’m Ki, full-stack engineer
+- 👀 I’m currently working as a junior developer @ Vanguard
+- 🌱 My goal as a developer is to gain proficiency across diverse domains of development, covering frontend, backend, cloud, deployment, and understanding CI/CD practices.
+- 💞️ I’m open to collaborating on projects that solve real-world problems.
 
-As a full-stack software engineer, I have enjoyed using React/Redux, Node/Express, and Python for the backend with Flask. With those technologies, I have built E-commerce and social media website solo and with fellow engineers.
-In my free time, I enjoy cycling and listening to music.
 
 - 📫 How to reach me ...  kwedgemusic@gmail.com
 
