@@ -2,11 +2,7 @@
 
 - 👋 Hi, I’m Ki, full-stack engineer
 - 👀 I’m currently working as a junior developer @ Vanguard
-- 🌱 My goal as a developer is to gain proficiency across diverse domains of development, covering frontend, backend, cloud, deployment, and understanding CI/CD practices.
-- 💞️ I’m open to collaborating on projects that solve real-world problems.
 
-
-- 📫 How to reach me ...  kwedgemusic@gmail.com
 
 
 
